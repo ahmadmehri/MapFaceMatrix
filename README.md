@@ -1,7 +1,7 @@
 # MapFaceMatrix
 ![StartCover](https://github.com/user-attachments/assets/fd7e4ecf-9294-4047-8e2c-2f3123f9e79b)
 
-Pattern Projection Software for Rapid Pattern Drawing:
+Free Pattern Projection Software for Rapid Pattern Drawing:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ryl0nvGsXX0/0.jpg)](https://youtu.be/ryl0nvGsXX0?si=fz6bvgk9PF7eeHXa)
 
@@ -49,5 +49,7 @@ Public Spaces: Use pattern projection to decorate public spaces, such as parks a
 Interior Decoration:
 Home Decor: Project patterns onto walls, ceilings, or floors to add a touch of elegance and creativity to your home decor.
 Retail Spaces: Enhance the shopping experience by projecting decorative patterns onto store interiors, creating a visually appealing environment.
+
+Open Source Cods are available by request.
 
 
